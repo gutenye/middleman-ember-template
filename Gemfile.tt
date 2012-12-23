@@ -1,0 +1,4 @@
+source "https://rubygems.org"
+
+gem "middleman", "~><%= Middleman::VERSION %>"
+gem "sprockets-handlebars_template", :require => "sprockets/ember_handlebars_template"
